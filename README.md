@@ -1,4 +1,4 @@
-This dataset is sourced from ‘Skill Circle’ & contains comprehensive information about vehicle insurance, including details on insured individuals, their vehicles, and associated claims. It offers insights into various factors such as Age, Gender, Regional code, Annual premiums, and Policy types.
+This dataset contains comprehensive information about vehicle insurance, including details on insured individuals, their vehicles, and associated claims. It offers insights into various factors such as Age, Gender, Regional code, Annual premiums, and Policy types.
 
 The Main objectives of this project are:
 
